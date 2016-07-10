@@ -4,7 +4,7 @@
 
 ##### Desktop application :
     
-    Run : /func/MainApp.java
+    Run : /desktop_app/MainApp.java
 
 *JSP-Servlet Practice*
 
