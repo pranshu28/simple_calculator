@@ -1,4 +1,4 @@
-package func;
+package desktop_app;
 
 public class Calculator {
 	public double currentVariable = 0;
