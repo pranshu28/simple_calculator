@@ -29,7 +29,6 @@ public class Calculator {
 	
 	//Call Functions
 	public void useCalculator( char operator, double input) {
-		
 		switch (operator) {
 			case '+':
 				add(input);
