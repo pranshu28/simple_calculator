@@ -3,7 +3,7 @@
  * using Swing toolkit for UI
  */
  
- package func;
+package desktop_app;
 
 public class MainCalc {
 	
